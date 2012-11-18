@@ -1,0 +1,4 @@
+supercollider
+=============
+
+Supercollider files
